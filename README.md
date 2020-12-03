@@ -11,7 +11,7 @@ un carrito de compras.
 - La tematica de la tienda es libre por lo que los datos pueden ser obtenidos de alguna API libre de su preferencia o de alguna de las siguientes listas: 
   - [APIS REST](https://github.com/public-apis/public-apis)
   - [APIS GRAPHQL](https://github.com/APIs-guru/graphql-apis)
-- El wireframe es netamente referencial, la parte visual debe realizarse con una librería de diseño existente. Ejemplo: Chakra UI, Ant Design, Material UI, Tailwind CSS etc.
+- El wireframe es netamente referencial, la parte visual debe realizarse con una librería de diseño existente. Ejemplo: Chakra UI, Ant Design, Material UI, Tailwind CSS, etc.
 
 ## Historias del usuario
 
