@@ -25,6 +25,6 @@ un botón `Agregar` y otro botón de `Vista previa`. (Si el API elegida no cuent
 
 ## Características adicionales
 
-- Agregar test unitarios(Solo agregar 1 test a culaquiera de los componentes desarrollados)
+- Agregar test unitarios(Solo agregar 1 test a cualquiera de los componentes desarrollados)
 - Agregar mensajes de confirmación al momento de agregar o eliminar un producto(opcional)
 - Agregar loaders de carga cuando se obtenga información del API(opcional)
