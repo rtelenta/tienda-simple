@@ -28,3 +28,8 @@ un botón `Agregar` y otro botón de `Vista previa`. (Si el API elegida no cuent
 - Agregar test unitarios(Solo agregar 1 test a cualquiera de los componentes desarrollados)
 - Agregar mensajes de confirmación al momento de agregar o eliminar un producto(opcional)
 - Agregar loaders de carga cuando se obtenga información del API(opcional)
+
+
+![Carrito-simple-2](https://user-images.githubusercontent.com/13630376/101086340-b6906580-357e-11eb-9864-c7b3413fe43a.jpg)
+![Carrito-simple-3](https://user-images.githubusercontent.com/13630376/101086346-ba23ec80-357e-11eb-8b86-9c22948672c3.jpg)
+![Carrito-simple](https://user-images.githubusercontent.com/13630376/101086348-babc8300-357e-11eb-9b6b-fa68259083a1.jpg)
