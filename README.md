@@ -8,7 +8,7 @@ un carrito de compras.
 
 - El desarrollo de debe realizar usando React JS
 - Los productos de la tienda deben ser obtenidos mediante REST o GraphQL.
-- La tematica de la tienda es libre por lo que los datos pueden ser obtenidos de alguna API libre de su preferencia o de alguna siguiente lista: 
+- La tematica de la tienda es libre por lo que los datos pueden ser obtenidos de alguna API libre de su preferencia o de alguna de las siguientes listas: 
   - [APIS REST](https://github.com/public-apis/public-apis)
   - [APIS GRAPHQL](https://github.com/APIs-guru/graphql-apis)
 - El wireframe es netamente referencial, la parte visual debe realizarse con una librería de diseño existente. Ejemplo: Chakra UI, Ant Design, Material UI, etc.
