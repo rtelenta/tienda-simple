@@ -6,7 +6,7 @@ un carrito de compras.
 
 ### Consideraciones
 
-- El desarrollo de debe realizar usando React JS
+- El desarrollo de debe realizar usando React JS con Typescript
 - Los productos de la tienda deben ser obtenidos mediante REST o GraphQL.
 - La tematica de la tienda es libre por lo que los datos pueden ser obtenidos de alguna API libre de su preferencia o de alguna de las siguientes listas: 
   - [APIS REST](https://github.com/public-apis/public-apis)
